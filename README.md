@@ -1,2 +1,4 @@
 # potato-clicker
-You spud, We spud
+for You spud, We spud
+
+Terminal style potato clicker
